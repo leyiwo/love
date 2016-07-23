@@ -8,3 +8,4 @@ I♥∆ 将会使用 Delaunay 三角剖分算法 和平均颜色到三角形覆�
 只能运行在支持Canvas API的浏览器。
 
 在线演示: http://www.whatled.com/sz/
+源代码: https://github.com/leyiwo/Low_Poly
